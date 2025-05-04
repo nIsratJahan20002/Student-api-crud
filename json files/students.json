@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "name": "Updated Student",
+      "age": 23,
+      "email": "updated@example.com",
+      "course": "AI & Robotics",
+      "grade": "A+",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "age": 21,
+      "email": "john@example.com",
+      "course": "Software Engineering",
+      "grade": "B"
+    },
+    {
+      "id": "3",
+      "name": "Alice Smith",
+      "age": 23,
+      "email": "alice@example.com",
+      "course": "Data Science",
+      "grade": "A"
+    },
+    {
+      "id": "252f",
+      "name": "New Student",
+      "age": 22,
+      "email": "newstudent@example.com",
+      "course": "Machine Learning",
+      "grade": "A"
+    },
+    {
+      "id": "bc38",
+      "name": "New Student",
+      "age": 22,
+      "email": "newstudent@example.com",
+      "course": "Machine Learning",
+      "grade": "A"
+    }
+  ]
+}
