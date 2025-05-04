@@ -28,8 +28,4 @@ Simple REST API to manage student data. Built to practice basic CRUD operations 
 
 ## 📸 Preview
 
-You can include screenshots of Postman tests here if you want.
-
 ## ✍️ Author
-
-Your name here (and maybe your GitHub link)
